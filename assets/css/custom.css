@@ -1,0 +1,32 @@
+/* Clientes Dropdown */
+.dropdown-clientes {
+    top: 10px; /* Adjust vertical position */
+    left: 12px; /* Adjust horizontal position */
+    position: absolute;
+    z-index: 1050;
+  }
+  
+  /* Prestamos Dropdown */
+  .dropdown-prestamos {
+    top: 50px; /* Adjust vertical position */
+    left: 0px; /* Centered below parent */
+    position: absolute;
+    z-index: 1050;
+  }
+  
+  /* Referencias Dropdown */
+  .dropdown-referencias {
+    top: 50px; /* Adjust vertical position */
+    right: 0px; /* Align to the right */
+    position: absolute;
+    z-index: 1050;
+  }
+  
+  /* Usuario Dropdown */
+  .dropdown-usuario {
+    top: 50px; /* Adjust vertical position */
+    right: 0px; /* Align to the right of the navbar */
+    position: absolute;
+    z-index: 1050;
+  }
+  
